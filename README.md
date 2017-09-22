@@ -18,6 +18,7 @@ https://github.com/zodiacon/WindowsInternals
   * `Global Flags` - GFLAGS found in Debugging tools.
   * `Handle Viewer` - HANDLE.exe offered by Sysinternals.
   * `Kernel debuggers` - WINDBG.exe, KD.exe are Debugging tools, found in the Windows SDK.
+  * `Live Kernel Debugger` - LiveKd oferred by Sysinternals.
   * `Object Viewer` - WINOBJ.exe oferred by Sysinternals.
   * `Pool Monitor` - POOLMON.exe found in Windows Driver Kit.
   * `Process Monitor` - PROCMON.exe offered by Sysinternals.
