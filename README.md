@@ -14,3 +14,4 @@ https://github.com/zodiacon/WindowsInternals
 
 ### Tips
   * `increaseuserva` is a bcdedit option to allow 3GB of process max memory space instead of 2GB on 32bit. More info: https://msdn.microsoft.com/en-us/library/windows/hardware/ff542202(v=vs.85).aspx
+  * Windows and Linux use only rings 0 for kernel space and ring 3 for user space. x86 processors implement 4 rings, whereas PowerPC/MIPS only 2. 
