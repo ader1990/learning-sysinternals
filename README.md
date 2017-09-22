@@ -6,3 +6,6 @@ https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684
 
 ## Repo for the 7th edition tools:
 https://github.com/zodiacon/WindowsInternals
+
+### Tools
+  * `tlist.exe` - equivalent of `ps auxf`. Found in the `Debuging tools` package.
