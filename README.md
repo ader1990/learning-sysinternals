@@ -28,3 +28,4 @@ https://github.com/zodiacon/WindowsInternals
   * Windows and Linux use only rings 0 for kernel space and ring 3 for user space. x86 processors implement 4 rings, whereas PowerPC/MIPS only 2. 
   * Windows drivers security:  On x86 arch - a driver has unrestricted access. On x64 arch - Kernel Mode Code Signing (KMCS) policy on x64 (can be disabled byb pressing F8 at the boot time +  Disable Driver Signature Enforcement).
   * Process Explorer symbols path: `srv*c:\symbols*http://msdl.microsoft.com/download/symbols`
+  * Developers should install Windows Software Development Kit (SDK) and Windows Driver Kit (WDK).
