@@ -8,4 +8,5 @@ https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684
 https://github.com/zodiacon/WindowsInternals
 
 ### Tools
-  * `tlist.exe` - equivalent of `ps auxf`. Found in the `Debuging tools` package.
+  * `tlist.exe` - equivalent of `ps auxf`. Found in the `Debuging tools` package, in Windows ADK.
+  * `Sysinternals Desktops tool` - can create up to four virtual desktops. Download link: https://download.sysinternals.com/files/Desktops.zip
