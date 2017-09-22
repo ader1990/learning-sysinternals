@@ -9,4 +9,5 @@ https://github.com/zodiacon/WindowsInternals
 
 ### Tools
   * `tlist.exe` - equivalent of `ps auxf`. Found in the `Debuging tools` package, in Windows ADK.
-  * `Sysinternals Desktops tool` - can create up to four virtual desktops. Download link: https://download.sysinternals.com/files/Desktops.zip
+  * `Sysinternals Desktops` - can create up to four virtual desktops. Download link: https://download.sysinternals.com/files/Desktops.zip
+  * `Process Explorer` - Task Manager on steroids. Download link: https://download.sysinternals.com/files/ProcessExplorer.zip
